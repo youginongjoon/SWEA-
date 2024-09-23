@@ -9,6 +9,7 @@ from tabnanny import check
 # 그렇다면, 최대값을 만들기 위해 최소 몇번 교환해야하는지는 어떻게 알지?
 
 
+
 ## 너비우선탐색을 이용한 풀이 ##
 T = int(input())
 
